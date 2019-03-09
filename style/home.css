@@ -1,0 +1,15 @@
+.carousel-item{
+    height: 600px;
+}
+.carousel-image-1{
+    background: url("../style/images/img10.jpg");
+    background: cover;
+}
+.carousel-image-2{
+    background: url("../style/images/img6.jpg");
+    background: cover;
+}
+.carousel-image-3{
+    background: url("../style/images/img9.jpg");
+    background: cover;
+}
